@@ -1,2 +1,0 @@
-# OOP_Exercises
-Practice
